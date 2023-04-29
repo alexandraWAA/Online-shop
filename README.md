@@ -31,7 +31,7 @@ ___
   - Запустить **Docker**;
   - В командной строке прописать ```docker pull ghcr.io/bizinmitya/front-react-avito:latest``` и скачать образ;
   - Запустить **Docker image** с помощью команды ```docker run -p 3000:3000 ghcr.io/bizinmitya/front-react-avito:v1.11```;
-  - Запустить метод **main** в файле **MarketplaceApplication.java**.
+  - Запустить метод **main** в файле **ShopOnlineApplication.java**.
 
 После выполнения всех шагов, веб-приложение будет доступно по адресу: http://localhost:3000
 
